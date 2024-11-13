@@ -12,7 +12,8 @@ image: ./assets/banner.jpg
 
 Le #30DayMapChallenge est un défi lancé en 2019 par [Topi Tjukanov](https://tjukanov.org/), un cartographe Finlandais. Cela consiste à publier chaque jour une carte sur une thématique imposée.
 
-![](./assets/banner.jpg)
+{: .center }
+![](./assets/banner.jpg){:width="400px"}{: .fullscreen } 
 
 {: .note }
 Pour suivre le challenge, cherchez le hastag `#30DayMapChallenge` sur les réseaux sociaux.
