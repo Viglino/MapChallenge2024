@@ -18,7 +18,7 @@ La carte a été réalisée avec [Ma carte](https://macarte.ign.fr/) et l'image 
 [Voir la carte en ligne](https://macarte.ign.fr/carte/Qfret1/Lignes-aeriennes-RTE){:target="macarte"}
 
 {: .center }
-![](./day2-elec2.jpg){:width="550px"}{: .fullscreen }    
+![](./day2-elec.png){:width="550px"}{: .fullscreen }    
 [Affiche la fée électricité &copy; Le Rize+](http://lerizeplus.villeurbanne.fr/article.php?laref=321&titre=la-fee-electricite){:target="macarte"}
 
 {: .center }
