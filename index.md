@@ -1,12 +1,12 @@
 ---
 layout: default
 permalink: /
-title: 30DayMapChallenge 2023
+title: 30DayMapChallenge 2024
 author: Viglino
 nav_order: 0
 has_children: true
-description: My #30DayMapChallenge 2023.
-image: ./day1-phare.jpg
+description: My #30DayMapChallenge 2024.
+image: ./assets/banner.jpg
 ---
 # My #30DayMapChallenge 2024
 
