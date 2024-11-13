@@ -1,5 +1,5 @@
-# MapChallenge2023
-My #30DayMapChallenge 2023
+# MapChallenge2024
+My #30DayMapChallenge 2024
 
 [<img src="./assets/banner.jpg" style="width: 400px; max-width: 100%;">](https://viglino.github.io/MapChallenge2024/)
 
