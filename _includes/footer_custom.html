@@ -1,0 +1,38 @@
+{% assign sorted_pages_site = site.pages | sort:"nav_order" %}
+
+{%- for item in sorted_pages_site -%}
+  {%- if item.url == page.url -%}
+    {%- assign num_of_pages = forloop.length -%}
+    {%- assign next_i = forloop.index0 | plus: 1 -%}
+    {%- assign prev_i = forloop.index0 | minus: 1 -%}
+    {%- if num_of_pages > next_i -%}
+      {%- assign next_page = sorted_pages_site[next_i] -%}
+    {%- endif -%}
+    {%- if prev_i >= 0 -%}
+      {%- assign prev_page = sorted_pages_site[prev_i] -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor -%}
+
+<div class="footer-nav">
+  {%- if prev_page -%}
+  <p class="prev-page">
+    <a href="{{ site.baseurl }}{{ prev_page.url }}">
+      {{ prev_page.title }}
+    </a>
+  </p>
+  {%- endif -%}
+  
+  {%- if next_page -%}
+  <p class="next-page">
+    <a href="{{ site.baseurl }}{{ next_page.url }}">
+      {{ next_page.title }}
+    </a>
+  </p>
+  {%- endif -%}
+</div>
+
+
+{%- if site.footer_content -%}
+  <p class="text-footer text-grey-dk-100 mb-0">{{ site.footer_content }}</p>
+{%- endif -%}
