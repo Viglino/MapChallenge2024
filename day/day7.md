@@ -5,7 +5,7 @@ title: Day 7 - Vintage
 nav_order: 8
 parent: 30DayMapChallenge 2024
 author: Viglino
-date: 2024-11-06
+date: 2024-11-07
 image: ./day7-vintage.jpg
 ---
 # Day 7 - Vintage
