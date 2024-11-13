@@ -6,7 +6,7 @@ nav_order: 4
 parent: 30DayMapChallenge 2024
 author: Viglino
 date: 2024-11-03
-image: ./day2-elec.jpg
+image: ./day3-bordeaux.jpg
 ---
 # Day 3 - Polygons
 
