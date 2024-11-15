@@ -10,7 +10,7 @@ image: ./day14-mystic.jpg
 ---
 # Day 14 - A World Map
 
-
+Une carte du monde des lieux Mythiques que j'avait commencé il y a quelques temps et qui regroupe des lieux mythiques réels (Zealandia) ou imaginaire (Atlantis, Thulé) ou des particularités géographiques (point Némo, ligne Wallace).
 
 {: .center }
 ![](./day14-mystic.jpg){:width="550px"}{: .fullscreen }    
