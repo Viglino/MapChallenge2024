@@ -18,4 +18,4 @@ Librement inspiré de la carte de [@BorisMercskay](https://x.com/BorisMericskay/
 [Voir la carte en ligne](https://macarte.ign.fr/carte/b8Owy6/Gares-TGV){:target="macarte"}
 
 {: .center }
-[![](https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg){:width="40px"}](https://x.com/IGNFrance/status/1856259236470169624) - [![](https://upload.wikimedia.org/wikipedia/commons/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg){:width="40px"}](https://mapstodon.space/@CanFre@mamot.fr/113469160057914518)
+[![](https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg){:width="40px"}](https://x.com/IGNFrance/status/1856259236470169624) - [![](https://upload.wikimedia.org/wikipedia/commons/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg){:width="40px"}](https://mapstodon.space/@CanFre@mamot.fr/113469160057914518) - [![](https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg){:width="40px"}](https://bsky.app/profile/canfre.bsky.social/post/3laqhwtvbfk24)

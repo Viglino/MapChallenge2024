@@ -17,4 +17,4 @@ Pour la journée du papier-crayon, j'ai choisi de faire une carte de France loca
 [Voir la carte en ligne](https://macarte.ign.fr/carte/137w0v/Le-paysage-au-XIXe-siecle){:target="macarte"}
 
 {: .center }
-[![](https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg){:width="40px"}](https://x.com/jmviglino/status/1855508744836124948) - [![](https://upload.wikimedia.org/wikipedia/commons/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg){:width="40px"}](https://mapstodon.space/@jmviglino/113475643219225295)
+[![](https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg){:width="40px"}](https://x.com/jmviglino/status/1855508744836124948) - [![](https://upload.wikimedia.org/wikipedia/commons/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg){:width="40px"}](https://mapstodon.space/@jmviglino/113475643219225295) - [![](https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg){:width="40px"}](https://bsky.app/profile/canfre.bsky.social/post/3lampq4dlp22l)

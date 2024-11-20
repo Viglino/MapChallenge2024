@@ -17,4 +17,4 @@ Sur le thème Openstreetmap, je propose un style façon carte ancienne de "Cassi
 [Voir la carte en ligne](https://macarte.ign.fr/carte/0jFLuT/OpenFreeCassini){:target="macarte"}
 
 {: .center }
-[![](https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg){:width="40px"}](https://x.com/jmviglino/status/1859133073344131252) - [![](https://upload.wikimedia.org/wikipedia/commons/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg){:width="40px"}](https://mapstodon.space/deck/@jmviglino/113514863923014624)
+[![](https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg){:width="40px"}](https://x.com/jmviglino/status/1859133073344131252) - [![](https://upload.wikimedia.org/wikipedia/commons/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg){:width="40px"}](https://mapstodon.space/deck/@jmviglino/113514863923014624) - [![](https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg){:width="40px"}](https://bsky.app/profile/jmviglino.bsky.social/post/3lbel23rlik2s)
