@@ -5,7 +5,7 @@ title: Day 24 - Only circular shapes
 nav_order: 24
 parent: 30DayMapChallenge 2024
 author: Viglino
-date: 2024-11-23
+date: 2024-11-24
 image: ./day24-grappe.jpg
 ---
 # Day 24 - Only circular shapes
